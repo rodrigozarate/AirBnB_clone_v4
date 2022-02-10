@@ -19,11 +19,11 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [License](#license)
 
 ## Environment
-This project is interpreted/tested on Ubuntu 16.04.6 LTS using python3 (version 3.5.2)
+This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/rodrigozarate/AirBnB_clone_v4.git"`
-* Access AirBnb directory: `cd AirBnB_clone_v4`
+* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
+* Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
@@ -155,15 +155,9 @@ No known bugs at this time.
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-  
-Rodrigo Zárate Algecira - [Github](https://github.com/rodrigozarate) / [Twitter](https://twitter.com/Rodrigo_Zarate_)
-  
-José Valdiviezo - [Github](https://github.com/joseluis-max) / [Twitter](https://twitter.com/josepadre30)
-
-Julio Cesar Arenas - [Github](https://github.com/jihuder) / [Twitter](https://twitter.com/JulioAr73961918)
-
-Oscar Ángel - [Github](https://github.com/oangel26) / [Twitter](https://twitter.com/oangel26)
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
 ## License
